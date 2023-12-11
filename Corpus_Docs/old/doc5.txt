@@ -1,1 +1,0 @@
-The fifth document contains words that are not present in the search document.
